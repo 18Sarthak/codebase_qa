@@ -1,0 +1,6 @@
+__pycache__/
+.env
+*.key
+.ipynb_checkpoints/
+data/
+repos/
