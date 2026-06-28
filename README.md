@@ -2,7 +2,7 @@
 
 RAG system that reads GitHub repos and answers questions about code.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/18Sarthak/codebase-qa/blob/main/gitans.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1ZNQseOc-1GB3o9ipPZ5uakOZnY5xZGG9?usp=sharing)]
 
 ## Quick Start
 1. Open Colab badge ↑
